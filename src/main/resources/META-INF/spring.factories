@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.lyq.config.AllowListAutoConfiguration,\
+com.lyq.config.BlockListAutoConfiguration
